@@ -10,4 +10,4 @@ This repository contains some PYP solutions that were not updated on the site.
 -- MH4311 (Cryptotgraphy)
  |--- AY1718
 </pre>
-Note that all solutions here are the effort of others and every attempt has been made to ensure that the published solutions are correct.<br/>
+Note that all solutions here are the collaborative effort of seniors and every attempt has been made to ensure that the published solutions are correct.<br/>
